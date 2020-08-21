@@ -1,2 +1,2 @@
 # VR_Speech
-VR Speech Simulation
+VR Public Speaking Simulation
